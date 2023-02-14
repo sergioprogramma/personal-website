@@ -11,6 +11,8 @@
     --font-base: "Bai Jamjuree";
 }
 
+strong { font-weight: bold; }
+
 body {
     background-color: var(--color-base2);
     color: var(--color-body);
